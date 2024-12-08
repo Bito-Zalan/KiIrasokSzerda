@@ -1,6 +1,8 @@
 Egy osztaly intezze az alabbi feladatokat:
 Kerj be egy tetszoleges szoveget, de legalabb 15 betu legyen benne es legalabb 5 kulonbozo betu!
 Tarold el a szoveget tombben es ArrayListben is, majd jelenitsd meg a tombot vesszovel, a listat kotojellel elvalasztva:
+
+
 tomb: t,e,t,s,z,ő,l,e,g,e,s, ,s,z,ö,v,e,g
 lista: t-e-t-s-z-ő-l-e-g-e-s- -s-z-ö-v-e-g
 
